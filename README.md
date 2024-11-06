@@ -44,5 +44,5 @@ Feel free to reach out if you want to collaborate on projects or just chat about
 
 - [LinkedIn](https://www.linkedin.com/in/vinaymandala99/)
 - [GitHub](https://github.com/vinaysai99)
-- [Personal Website](https://vinaysai99.github.io/VinayMandala.github.io/)
+- [Personal Website](https://vinaysai99.github.io/VinayMandala/)
 - [Email](mailto:vinaysaireddymandala@gmail.com)

@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/github/followers/saurin16?label=Follow&style=social">](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fvinaysai99)
 
-Welcome to my GitHub profile! I'm a passionate Data analyst and Python Developer with a strong foundation in computer science and a focus on machine learning, data analysis & visualization, and cloud technologies.
+Welcome to my GitHub profile! I'm a passionate Data Engineer/analyst and Python Developer with a strong foundation in computer science and a focus on machine learning, data analysis & visualization, and cloud technologies.
 
 ## About Me
 
